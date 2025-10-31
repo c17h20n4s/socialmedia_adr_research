@@ -1,0 +1,6 @@
+{
+  "ari_cluster_soc": 0.6053,
+  "embedding_dimension": 64,
+  "projection_method": "t-SNE",
+  "tsne_perplexity": 20
+}

@@ -1,0 +1,39 @@
+cluster,adr,degree
+1,withdrawal,15
+1,depression,8
+1,headaches,7
+1,cravings,4
+1,panic attacks,4
+1,addiction,4
+1,tremors,3
+1,migraines,3
+1,nightmares,3
+1,addictive,2
+2,anxious,9
+2,tolerance,6
+2,irritable,4
+2,depressed,4
+2,panic attack,3
+2,agitated,2
+2,addicted,2
+3,anxiety,16
+3,withdrawals,10
+3,numb,4
+3,tinnitus,4
+3,derealization,4
+3,dehydrated,2
+4,insomnia,9
+4,weight gain,4
+4,sweating,4
+4,exhausted,2
+4,fatigue,1
+5,nausea,8
+5,dizziness,4
+5,vomiting,2
+5,diarrhea,2
+6,keyed-up,2
+6,groggy,2
+6,manic,2
+7,paranoia,5
+7,mania,2
+7,psychosis,2
