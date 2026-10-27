@@ -63,25 +63,27 @@ This project investigates adverse drug reactions (ADRs) reported by Reddit users
 
 ## Repository Structure
 
+```
 socialmedia_adr_research/
 ├── data/
-│ ├── raw/
-│ ├── processed/
+│   ├── raw/
+│   └── processed/
 ├── models/
-│ ├── node2vec/
-│ ├── word2vec/
+│   ├── node2vec/
+│   └── word2vec/
 ├── notebooks/
-│ ├── pre_processing_pipeline.ipynb
-│ ├── network_and_clustering_ADR.ipynb
-│ ├── embeddings_analysis.ipynb
-│ └── visualizations_and_medra.ipynb
-├── src/ # to be added
-│ ├── data_utils.py 
-│ ├── network_utils.py
-│ ├── embedding_utils.py
-│ └── viz_utils.py
+│   ├── pre_processing_pipeline.ipynb
+│   ├── network_and_clustering_ADR.ipynb
+│   ├── embeddings_analysis.ipynb
+│   └── visualizations_and_medra.ipynb
+├── src/                  # to be added
+│   ├── data_utils.py
+│   ├── network_utils.py
+│   ├── embedding_utils.py
+│   └── viz_utils.py
 ├── README.md
 └── requirements.txt
+```
 
 
 ## Key Metrics
